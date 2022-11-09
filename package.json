@@ -9,7 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.2.41"
+    "@jamescoyle/vue-icon": "^0.1.2",
+    "@mdi/js": "^7.0.96",
+    "vue": "^3.2.41",
+    "vuetify": "^3.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.2.0",
